@@ -1,0 +1,54 @@
+.container-fluid{
+    background-color: #e6e6fa;
+}
+#cv{
+    width: 100%;
+    font: bold 1.25em "Trebuchet MS", Verdana, Arial, Helvetica,
+    sans-serif;
+    border: 20px solid #5f5f5f;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    text-align: left;
+    padding: 6px 6px 6px 12px;
+    background: #C1DAD7;
+    border-collapse: collapse;
+    }
+     
+    #cv th{
+    color: rgb(51, 63, 168);
+    padding: 6px 6px 6px 12px;
+     
+    }
+     
+    #cv td{
+    padding: 6px 6px 6px 12px;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 300;
+    }
+    #cv tr{
+    color: #112233;
+    background: #e6e6fa;
+    }
+    
+
+    .button{
+        background-color: #e6e6fa;
+        font-size: 20px;
+        border-radius: 4px;
+        border: #e6e6fa;
+
+        box-shadow: 0 8px 16px 0 rgba(8, 114, 185, 0.384), 0 6px 20px 0 rgba(28, 45, 71, 0.37);
+
+    }
+
+.form-controll{
+    width: 113%;
+    padding: 5px 12px;
+    font-size: 14px;
+    line-height: 1.42857143;
+    color: #555;
+    background-color: #fff;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}
+
