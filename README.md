@@ -1,3 +1,3 @@
 # bootstrap web project
-(It will be edit.)
+(this project will be rewrite.)
 
